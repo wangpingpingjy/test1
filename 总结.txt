@@ -1,0 +1,4 @@
+1.先创建一个远程仓库，然后用git clone 拷贝下来
+2.git add -A （如果有新文件的时候）
+3.git commit -m “评论”或者是 -a
+4.git push
